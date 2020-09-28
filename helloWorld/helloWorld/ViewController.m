@@ -18,6 +18,8 @@
     // Do any additional setup after loading the view.
     
     NSLog(@"hello world");
+    NSLog(@"hello world");
+    NSLog(@"hello world");
 }
 
 
